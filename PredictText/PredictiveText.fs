@@ -10,8 +10,8 @@ let LoadDictFromPath (path:String) =
     File.ReadAllLines path
 
 ///Load dictionary from path
-let LoadDict (path:String) = 
-    let dict = LoadDictFromPath path
+let LoadDict = 
+    let dict = LoadDictFromPath dictPath
     dict
 
 ///Filter data based on prefix and dict

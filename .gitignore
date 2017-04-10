@@ -39,3 +39,7 @@ jspm_packages
 PredictText/bin
 PredictText/obj
 PredictText/packages
+
+PredictTextTestOnCSharp/bin
+PredictTextTestOnCSharp/obj
+PredictTextTestOnCSharp/packages
